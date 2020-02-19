@@ -1,0 +1,754 @@
+.header-main_sticky {
+    border-bottom: 1px solid #e6e6e6
+}
+
+.header-sign-in__label.signInNew:hover span,
+a.header-cart__toggle:hover span.header-cart__text {
+    text-decoration: underline
+}
+
+.choose-a-store.specialLeftSpace .choose-a-store__button::after {
+    right: -23px!important
+}
+
+.header-main_static .header-sign-in__label.signInNew:before {
+    left: 34px!important
+}
+
+.choose-a-store:not(.specialLeftSpace) .choose-a-store__button::after {
+    top: 10px!important
+}
+
+.store-hours.displayNone {
+    display: none!important
+}
+
+.mega-menu__dropdown {
+    box-shadow: none!important;
+    border-top: 1px solid #ccc
+}
+
+.header-main_sticky .header-main__logo {
+    margin-right: 3%!important
+}
+
+.header-cart__container {
+    top: 58px!important
+}
+
+.header-main_sticky .header-main__logo {
+    margin-right: 3%
+}
+
+.header-cart__container:before {
+    right: 10px!important
+}
+
+.header-main_static .header-main__search-tool {
+    -webkit-flex-grow: .9!important;
+    flex-grow: .9!important
+}
+
+.header-main_sticky .header-main__tools .header-cart__text {
+    display: block!important;
+    font-size: 12px
+}
+
+.header-main_sticky span.header-cart__quantity {
+    top: -20px;
+    right: -13px
+}
+
+span.header-cart__quantity {
+    top: -9px;
+    right: -6px;
+    padding: 0 6px;
+    font-size: 14px;
+    line-height: 21px;
+    border-radius: 4px;
+    background: #bf6a31;
+    color: #fff;
+    position: absolute;
+    border-width: 0;
+    z-index: 1
+}
+
+.main-menu__link {
+    text-transform: capitalize!important
+}
+
+.choose-a-store.specialLeftSpace {
+    margin-right: 25px!important
+}
+
+.header-main.header-main_sticky .choose-a-store.specialLeftSpace {
+    margin-right: 30px!important
+}
+
+header.page-header .page-header__position-wrapper .header-main,
+header.page-header .page-header__position-wrapper .page-header__utility .header-utility {
+    background-color: #fff!important
+}
+
+.choose-a-store__button,
+.glb-quick-links__item:link,
+.glb-quick-links__item:visited,
+.main-menu__link {
+    color: #333!important
+}
+
+.header-main_static .header-main__nav {
+    margin-top: 10px!important
+}
+
+.header-main_static .header-sign-in__label::before {
+    margin: 0!important;
+    width: 24px!important;
+    height: 24px!important;
+    left: 23px!important;
+    position: absolute;
+    background-image: url(https://marks.scene7.com/is/image/marksp/profile)!important;
+    background-size: contain!important;
+    top: -3px!important
+}
+
+.header-sign-in__label::before {
+    background-image: url(https://marks.scene7.com/is/image/marksp/profile)!important;
+    background-size: contain!important;
+    width: 25px!important;
+    height: 25px!important;
+    left: 50%!important;
+    top: 0!important;
+    margin-top: 0!important
+}
+
+.header-sign-in__label {
+    height: auto!important;
+    position: relative!important;
+    min-width: auto!important;
+    line-height: 40px!important;
+    margin: 0!important;
+    padding: 0!important
+}
+
+.header-main.header-main_sticky .header-triangle span,
+.header-main.header-main_sticky span.my-account,
+.page-header_sticky .choose-a-store__button {
+    font-size: 12px!important
+}
+
+span.my-account {
+    line-height: 1;
+    position: relative;
+    text-transform: initial;
+    color: #333;
+    font-family: Roboto, Arial, sans-serif;
+    top: 12px
+}
+
+a.header-cart__toggle::before {
+    left: 0!important
+}
+
+a.header-cart__toggle::before {
+    background-image: url(https://marks.scene7.com/is/image/marksp/cart-icon)!important;
+    background-size: contain!important;
+    width: 28px;
+    height: 28px;
+    left: 50%;
+    top: 2px;
+    margin-top: 0;
+    transform: none;
+    position: absolute;
+    top: 0!important
+}
+
+span.header-cart__text {
+    position: relative;
+    top: 12px;
+    font: 14px Roboto, Arial, sans-serif;
+    color: #333;
+    text-transform: capitalize
+}
+
+.header-triangle span {
+    color: #333;
+    font: 14px Roboto, Arial, sans-serif
+}
+
+.header-triangle a {
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
+
+.header-triangle img {
+    width: 26px
+}
+
+.header-main_static .main-menu__container {
+    border: 0!important
+}
+
+.header-search .header-search__field {
+    border: 1px solid #bf6a31!important;
+    border-radius: 5px
+}
+
+.header-search__button {
+    border: 0!important;
+    position: absolute!important;
+    width: 33px!important;
+    height: 34px!important;
+    right: 0!important;
+    border-radius: 0 5px 5px 0!important;
+    background-position: center!important;
+    background: url(https://marks.scene7.com/is/image/marksp/SearchIcon_2x?op_sharpen=1&resMode=sharp2&qlt=85,0&fmt=png-alpha) center no-repeat!important;
+    background-size: 18px!important;
+    background-color: #bf6a31!important
+}
+
+.header-search .header-search__field {
+    height: 34px!important
+}
+
+.header-main__search-tool-label:not(.newSearchImage) {
+    background: url(https://canadiantire.scene7.com/is/image/CanadianTire/search-32px_black@2x?wid=64&hei=64&fmt=png-alpha) no-repeat!important;
+    background-size: contain!important
+}
+
+.header-triangle span {
+    margin-top: 4px
+}
+
+.container a.header-logo img {
+    height: 29px
+}
+
+.header-cart {
+    line-height: 40px;
+    text-transform: capitalize
+}
+
+.header-cart__toggle {
+    padding-left: 0!important
+}
+
+.choose-a-store {
+    margin: 0!important;
+    position: relative;
+    margin-right: 15px!important
+}
+
+.header-main.header-main_sticky .choose-a-store {
+    margin-right: 28px!important
+}
+
+a#choose-a-store__button {
+    text-transform: capitalize!important;
+    font: 14px Roboto, Arial, sans-serif;
+    text-decoration: none!important
+}
+
+.store-hours {
+    white-space: nowrap!important;
+    margin-top: 2px!important
+}
+
+.choose-a-store__button {
+    padding: 0!important;
+    top: 0!important;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column!important
+}
+
+.choose-a-store__button::after {
+    right: -17px!important;
+    top: 1px!important;
+    transform: unset!important
+}
+
+.header-main__tools {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 9px!important
+}
+
+.header-utility__sign-in {
+    height: 40px!important;
+    margin: 0 40px!important
+}
+
+.header-main__logo {
+    margin-top: 10px!important
+}
+
+.header-main__wrapper {
+    min-height: 115px!important
+}
+
+.header-main_sticky .header-main__tools {
+    margin-top: 0!important
+}
+
+.header-main_sticky .header-main__search-tool .header-search__field {
+    height: 34px!important;
+    border: 1px solid #bf6a31!important;
+    box-shadow: none!important
+}
+
+.header-main_sticky .header-main__search-tool-wrapper {
+    display: block!important;
+    bottom: 9px!important;
+    height: 34px!important;
+    border-radius: 5px!important
+}
+
+.header-main_sticky .header-main__search-tool .header-search__button {
+    display: block!important;
+    width: 33px!important;
+    height: 34px!important;
+    right: 0!important
+}
+
+.header-main_sticky .header-main__search-tool-close,
+.header-main_sticky .header-main__search-tool-label,
+.header-main_sticky .header-main__search-tool-wrapper::after {
+    display: none!important
+}
+
+.main-menu__container {
+    display: -ms-flexbox!important;
+    -ms-flex-pack: center!important;
+    justify-content: left!important
+}
+
+.header-main_sticky .header-main__nav .main-menu__link {
+    height: 47px!important;
+    line-height: 49px!important;
+    padding: 0!important;
+    font-size: 15px!important
+}
+
+.header-main.header-main_sticky a.header-cart__toggle::before {
+    top: -10px!important
+}
+
+.header-main_sticky .header-main__tools .header-sign-in__label {
+    font-size: 14px!important;
+    width: 100%!important
+}
+
+header.page-header {
+    height: 152px!important
+}
+
+.header-main_sticky .header-main__wrapper {
+    min-height: 47px!important
+}
+
+.header-main.header-main_sticky .container {
+    padding-top: 5px!important;
+    padding-bottom: 5px!important
+}
+
+.header-main .container,
+.header-utility .container {
+    width: 100%;
+    max-width: 1680px!important;
+    padding: 0 1rem!important
+}
+
+@media only screen and (min-width:1650px) and (max-width:1800px) {
+    .header-main:not(.header-main_sticky) .container,
+    .header-utility:not(.header-main_sticky) .container {
+        max-width: 1520px!important
+    }
+}
+
+@media only screen and (min-width:1650px) {
+    .header-main_sticky .header-main__search-tool-wrapper {
+        width: 455px!important;
+        left: -463px!important
+    }
+    .header-main_sticky .header-main__nav .main-menu__item {
+        margin-right: 2.5%!important
+    }
+    .header-main .container {
+        padding: 0 2.5rem 0 1rem!important
+    }
+    .header-main_static .header-main__search-tool {
+        -webkit-flex-grow: .75!important;
+        flex-grow: .75!important;
+        margin-right: 20px!important
+    }
+}
+
+@media only screen and (min-width:1520px) and (max-width:1590px) {
+    
+.header-main_sticky .header-main__logo {
+    margin-right: 2%!important;
+}
+    .header-utility__sign-in {
+            margin: 0 20px!important;
+    }
+    .header-main_sticky .header-main__nav .main-menu__item {
+    margin-right: 2.5% !important;
+}
+.header-main_sticky .header-main__search-tool-wrapper {
+        left: -407px !important;
+}
+}
+@media only screen and (min-width:1300px) and (max-width:1500px) {
+    .header-main_sticky .header-main__search-tool-wrapper {
+        width: 302px!important;
+        left: -308px!important
+    }
+    .header-main_sticky .header-main__nav .main-menu__item {
+        margin-right: 2%!important
+    }
+    .header-utility__sign-in {
+        margin: 0 10px!important
+    }
+    .header-main_sticky .header-main__logo {
+        margin-right: 1%!important
+    }
+    .header-main .container {
+        padding: 0 2rem 0 1rem!important
+    }
+    .header-main_static .header-main__search-tool {
+        -webkit-flex-grow: .75!important;
+        flex-grow: .75!important;
+        margin-right: 20px!important
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1300px) {
+    .header-main_sticky .header-main__search-tool-wrapper {
+        width: 350px!important;
+        left: -359px!important
+    }
+    .header-main_sticky .header-main__logo {
+        margin-right: 2%!important
+    }
+    .header-utility__sign-in {
+        height: 40px!important;
+        margin: 0 10px!important
+    }
+    .header-main_sticky .header-main__nav .main-menu__item {
+        margin-right: 1.5%!important
+    }
+    .header-main_sticky .header-main__nav .main-menu__link {
+        font-size: 13px!important
+    }
+    .header-triangle img {
+        width: 22px
+    }
+    .header-sign-in__label::before {
+        width: 22px!important;
+        height: 22px!important
+    }
+    a.header-cart__toggle::before {
+        width: 23px!important;
+        height: 23px!important
+    }
+    .header-main.header-main_sticky .header-triangle span,
+    .header-main.header-main_sticky span.my-account,
+    .header-main_sticky .header-main__tools .header-cart__text,
+    .page-header_sticky .choose-a-store__button {
+        font-size: 10px!important
+    }
+    span.header-cart__text {
+        top: 11px
+    }
+    span.my-account {
+        top: 10px
+    }
+    .container a.header-logo img {
+        height: 27px
+    }
+}
+
+@media screen and (max-width:1279px) {
+    .header-main__wrapper {
+        min-height: 47px!important
+    }
+}
+
+@media only screen and (max-width:1180px) {
+    .header-main_sticky .header-main__search-tool-wrapper {
+        width: 360px!important;
+        left: -369px!important
+    }
+}
+
+@media only screen and (max-width:1025px) {
+    .header-cart__text {
+        display: block!important;
+        top: 10px
+    }
+    .header-main.header-main_static {
+        border-bottom: 1px solid #e6e6e6
+    }
+    .header-search .header-search__field {
+        border-radius: 5px!important
+    }
+    .header-main_static .header-sign-in__label::before {
+        left: 17px!important
+    }
+    .choose-a-store.specialLeftSpace .choose-a-store__button::after {
+        top: 3px!important
+    }
+    .choose-a-store.specialLeftSpace {
+        margin-right: 3px!important
+    }
+    .header-main .container {
+        padding: 5px 1rem!important
+    }
+    .main-menu__mobile-toggle::before {
+        background: url(https://marks.scene7.com/is/image/marksp/MenuIcon_2x?op_sharpen=1&resMode=sharp2&qlt=85,0&fmt=png) center no-repeat!important;
+        background-size: cover!important;
+        width: 22px!important;
+        height: 17px!important;
+        margin: 11px 0 0 13px!important
+    }
+    .container a.header-logo img {
+        height: 16px
+    }
+    a#choose-a-store__button {
+        font-size: 12px
+    }
+    .choose-a-store__button::after {
+        top: 0!important
+    }
+    .header-search__button {
+        width: 28px!important;
+        top: 49%!important;
+        height: 26px!important
+    }
+    .header-triangle img {
+        width: 18px
+    }
+    .header-triangle span {
+        font-size: 10px!important
+    }
+    .header-sign-in__label {
+        font-size: 10px!important
+    }
+    span.header-cart__quantity,
+    span.header-cart__text {
+        font-size: 10px!important
+    }
+    .header-main_static .header-sign-in__label::before {
+        width: 19px!important;
+        height: 19px!important;
+        top: 2px!important
+    }
+    .header-utility__sign-in {
+        margin: 0 15px!important
+    }
+    .header-search .header-search__field {
+        height: 26px!important
+    }
+    span.my-account {
+        top: 9px
+    }
+    .header-search {
+        height: 26px!important
+    }
+    a.header-cart__toggle::before {
+        width: 23px;
+        left: -4px!important;
+        top: -9px!important
+    }
+    span.header-cart__quantity {
+        top: -17px
+    }
+    a.header-cart__toggle {
+        display: block
+    }
+    .header-cart {
+        line-height: 30px!important
+    }
+    .header-main__logo {
+        margin-left: 35px!important;
+        display: flex;
+        align-items: center;
+        margin-right: 10px!important;
+        margin-top: 0!important
+    }
+    header.page-header {
+        height: 58px!important
+    }
+    .header-main__tools {
+        margin-top: 0!important
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:850px) {
+    .header-main_static .header-main__search-tool {
+        flex-grow: .6!important
+    }
+}
+
+@media only screen and (max-width:650px) {
+    .choose-a-store {
+        margin: 0!important;
+        width: 110px!important;
+        margin-right: 15px!important;
+        text-overflow: ellipsis
+    }
+    header.page-header.page-header_fixed.specialHeight {
+        height: 100px!important
+    }
+    .header-main__search-tool-label.newSearchImage {
+        background-image: url(https://canadiantire.scene7.com/is/image/CanadianTire/search-orange_48px@2x?wid=64&hei=64&fmt=png-alpha) center no-repeat!important;
+        background-size: contain
+    }
+    a.header-cart__toggle::before {
+        left: -4px!important;
+        top: -11px!important
+    }
+    span.header-cart__quantity {
+        top: -17px;
+        font-size: 9px!important
+    }
+    .choose-a-store.specialLeftSpace {
+        bottom: 1px;
+        width: 76px!important;
+        margin-right: 18px!important
+    }
+    .header-triangle {
+        display: none
+    }
+    .header-main__tools {
+        margin-top: 10px!important
+    }
+    .header-main__search-tool-label:after {
+        content: "Search";
+        position: relative;
+        font-size: 10px;
+        right: 5px;
+        top: 9px
+    }
+    .header-main_static .header-main__search-tool {
+        flex-grow: unset!important
+    }
+    button.header-search__button {
+        width: 34px!important;
+        height: 39px!important;
+        top: 19px!important;
+        background-size: auto
+    }
+    form.header-search:before {
+        content: '';
+        top: -6px;
+        right: 70px;
+        position: absolute;
+        background: #fff;
+        border-left: 1px solid #bf6a31;
+        border-top: 1px solid #bf6a31;
+        height: 13px;
+        transform: rotate(45deg);
+        width: 13px;
+        z-index: 9
+    }
+    .header-main_static .header-main__tools {
+        display: flex;
+        justify-content: space-around
+    }
+    .header-main__search-tool-label {
+        position: relative;
+        top: -6px
+    }
+    .header-search .header-search__field {
+        height: 39px!important
+    }
+    a.header-cart__toggle {
+        line-height: 40px!important
+    }
+    .header-search {
+        height: 34px!important
+    }
+}
+
+@media only screen and (max-width:415px) {
+    form.header-search:before {
+        right: 68px
+    }
+    .header-main__search-tool-label {
+        position: relative;
+        top: -8px
+    }
+    .header-main__search-tool-label:after {
+        top: 14px
+    }
+    .header-main__tools {
+        margin-top: 7px!important
+    }
+    .main-menu__mobile-toggle::before {
+        top: 16px!important
+    }
+}
+
+@media only screen and (max-width:376px) {
+    form.header-search:before {
+        right: 50px
+    }
+}
+
+@media only screen and (max-width:330px) {
+    .choose-a-store__button::after {
+        right: -12px!important
+    }
+    .main-menu__mobile-toggle::before {
+        width: 18px!important;
+        height: 16px!important
+    }
+    .main-menu__mobile-toggle {
+        width: 36px
+    }
+    .header-main__logo {
+        margin-left: 20px!important;
+        margin-top: 0!important;
+        margin-right: 5px!important
+    }
+    .container a.header-logo img {
+        height: 14px
+    }
+    .choose-a-store__button::after {
+        top: 1px!important
+    }
+    .header-main__search-tool-label:after {
+        font-size: 9px
+    }
+    .header-main__search-tool-label {
+        width: 15px;
+        height: 15px
+    }
+    a.header-cart__toggle::before {
+        top: -9px
+    }
+    span.header-cart__text {
+        font-size: 9px!important;
+        top: 13px
+    }
+    form.header-search:before {
+        right: 42px
+    }
+    .header-main_static .header-main__search-tool {
+        margin-right: 0!important
+    }
+    .header-main__search-tool-label {
+        position: relative;
+        top: -5px
+    }
+    .header-main__search-tool-label:after {
+        top: 11px
+    }
+    a#choose-a-store__button {
+        font-size: 11px
+    }
+}
